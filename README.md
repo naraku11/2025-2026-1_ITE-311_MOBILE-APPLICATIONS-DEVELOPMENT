@@ -1,4 +1,4 @@
-# 📱 Mobile Computing and Application Development  
+# 📱 Mobile Application Development  
 
 Welcome to **Mobile Computing and Application Development**!  
 This course explores the world of **mobile computing devices** and how they have become essential in our daily lives. From smartphones to tablets, mobile devices power the way we **communicate, work, and innovate**.  
